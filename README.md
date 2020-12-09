@@ -1,5 +1,7 @@
 # stf-project
 
+![plot](./images/img1.png)
+
 ## Project setup
 ```
 npm install
