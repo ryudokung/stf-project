@@ -11,7 +11,7 @@
         </blockquote>
       </v-flex>
       <v-flex xs12 sm6 offset-sm3 class="text-center">
-        <v-btn color="primary" to="/signup">Sign Up</v-btn>
+        <v-btn color="primary" to="/scoreboard">ScoreBoard</v-btn>
         <v-btn to="/signin">Sign In</v-btn>
       </v-flex>
     </v-layout>
